@@ -1,0 +1,17 @@
+.contact-container {
+  max-width: 600px;
+  text-align: center;
+}
+
+.contact-info {
+  border: 1px solid #ffeded;
+  box-shadow: 0 0 10px rgba(22, 17, 17, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.contact-info p {
+  margin: 0;
+  font-size: 16px;
+}
